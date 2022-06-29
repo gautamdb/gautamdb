@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gautamdb
 - 👀 I’m interested in mathematics
-- 🌱 I’m currently learning how to apply for a PhD position
+- 🌱 I’m currently learning how to do a PhD
 - 💞️ I’m looking to collaborate on anything interesting :-)
 - 📫 How to reach me: E-Mail: mathematiker@posteo.de
 
